@@ -1,2 +1,2 @@
-def say_hello(name="Gabriela", language="Ruby")
-  puts 
+def say_hello(name="Ruby Programmer")
+  puts "Hello "
